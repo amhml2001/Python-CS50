@@ -34,7 +34,7 @@ first, last = name.split(" ")
 one, two = name2.split(" ")
 print(one, two)
 print("12. hello,", first)
-#Write python in terminal to use tthe interactive mode, the moment you execute a line it shows the result
+#Write python in terminal to use the interactive mode, the moment you execute a line it shows the result
 
 #By creating a main function, you can organize your files and
 #calling your function in whichever order they were defined
