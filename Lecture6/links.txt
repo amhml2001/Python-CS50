@@ -1,0 +1,5 @@
+Notes
+https://cs50.harvard.edu/python/2022/notes/6/
+
+Exercises
+https://cs50.harvard.edu/python/2022/psets/6/
