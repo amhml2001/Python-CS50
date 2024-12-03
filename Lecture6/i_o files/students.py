@@ -48,7 +48,7 @@ with open('E:/ESTUDO/VsCode/CS50 Introduction Python/Lecture6/i_o files/students
     for row in reader:
        students1.append({"name": row[0], "home": row[1]}) 
         
-for student in sorted(students1, key=lambda student: student['name']): # lambda is a anonimous function, only called onece here. before : is the parameter and after is the return value
+for student in sorted(students1, key=lambda student: student['name'], reverse=False): # lambda is a anonimous function, only called onece here. before : is the parameter and after is the return value
     print(f"{student['name']} is from {student['home']}")
 
 print('----------------------')

@@ -26,6 +26,7 @@ with open('E:/ESTUDO/VsCode/CS50 Introduction Python/Lecture6/i_o files/name.txt
 
 
 # -----------------------------------
+#WRITE USING CSV
 name = input("Name: ")
 home = input("Home: ")
 
